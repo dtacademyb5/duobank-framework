@@ -3,7 +3,7 @@
 <suite name="Regression Suite">
 
 <!--    Regression suite -->
-    <test name="UI tests">
+    <test name="UI ui.tests">
 
         <packages>
             <package name=".*"></package>

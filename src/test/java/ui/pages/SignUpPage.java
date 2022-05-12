@@ -1,7 +1,5 @@
-package pages;
+package ui.pages;
 
-import com.github.javafaker.Faker;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

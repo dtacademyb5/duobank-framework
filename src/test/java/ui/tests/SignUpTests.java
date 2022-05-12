@@ -1,17 +1,11 @@
-package tests;
+package ui.tests;
 
 import com.github.javafaker.Faker;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import pages.SignInPage;
-import pages.SignUpPage;
-import utilities.PropertyReader;
+import ui.pages.SignInPage;
+import ui.pages.SignUpPage;
 
 public class SignUpTests extends TestBase{
 
