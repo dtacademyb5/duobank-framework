@@ -10,22 +10,24 @@ public class APIAuthentication {
 
 
     @Test
-    public void basicAuth() {
+    public void basicAuthMethod() {
 
 
 
-        //Basic Auth uses username and password?
+        //Basic Auth uses
+        // username:password
 
 
     }
 
 
     @Test
-    public void OAuth2PointO() {
+    public void OAuth2PointZero() {
 
 
 
-        // Oauth2.0 uses complex authentication mechanism similar to 2-factor authentication
+        // Oauth2.0 uses complex authentication mechanism like
+        // 2-factor authentication
 
 
     }
