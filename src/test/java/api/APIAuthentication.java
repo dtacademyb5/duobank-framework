@@ -10,7 +10,7 @@ public class APIAuthentication {
 
 
     @Test
-    public void basicAuthMethodMain2() {
+    public void basicAuthMethodDEv() {
 
 
 
@@ -21,7 +21,7 @@ public class APIAuthentication {
 
 
     @Test
-    public void OAuth2PointZeroMain2() {
+    public void OAuth2PointZeroDev() {
 
 
 
