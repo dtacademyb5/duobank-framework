@@ -20,4 +20,15 @@ public class APIAuthentication {
     }
 
 
+    @Test
+    public void OAuth2PointO() {
+
+
+
+        // Oauth2.0 uses complex authentication mechanism similar to 2-factor authentication
+
+
+    }
+
+
 }
