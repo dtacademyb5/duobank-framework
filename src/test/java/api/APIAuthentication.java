@@ -10,13 +10,13 @@ public class APIAuthentication {
 
 
     @Test
-    public void basicAuth(){
-
-        //SQL,JDBC Cucumber, Jenkins CI/CD
+    public void basicAuth() {
 
 
-//        given().
-//                auth().("postman", "password").
+
+        //Basic Auth uses username and password?
+
+
     }
 
 
