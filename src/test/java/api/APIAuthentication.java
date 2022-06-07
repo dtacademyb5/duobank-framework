@@ -1,6 +1,11 @@
 package api;
 
 import org.testng.annotations.Test;
+import static io.restassured.RestAssured.baseURI;
+import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.is;
+
 
 public class APIAuthentication {
 
@@ -26,6 +31,11 @@ public class APIAuthentication {
 
 
         // Oauth2.0 uses complex authentication mechanism             aka 2-factor authentication
+
+
+       given().
+               when().
+               then();
 
 
     }
